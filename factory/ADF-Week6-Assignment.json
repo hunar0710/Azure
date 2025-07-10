@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Week6-Assignment",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "015f4c37-067a-4aa5-9789-8ef4049ed4bf",
+		"tenantId": "27282fdd-4c0b-4dfb-ba91-228cd83fdf71"
+	}
+}
